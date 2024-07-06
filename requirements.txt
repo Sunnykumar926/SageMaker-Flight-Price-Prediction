@@ -2,6 +2,6 @@ numpy
 pandas
 scikit-learn
 streamlit
-feature-enging
+feature-engine
 xgboost
 joblib
